@@ -1,0 +1,6 @@
+Vitamin C Serum,Garnier,211,1000,France 
+Skin Cleanser,Cetaphil,80,280,Switzerland 
+Sunscreen,Aqualogica,200,700,India
+Blush,Judydoll,300,1500,China 
+Toner,Anua,100,2000,S.Korea
+Lipgloss,Romand,403,1200,S.Korea 
